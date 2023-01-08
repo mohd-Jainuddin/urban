@@ -1,0 +1,39 @@
+.header{
+    height: 900px;
+    background-image: url(./urban/banner.png);
+    background-size: cover;
+    background-position: center top;
+}
+
+.first{
+    margin-top: 40px;
+    padding: 10px;
+}
+
+.first img{
+    border-radius: 50%;
+}
+
+.second{
+    margin-top: 40px;
+    padding: 10px;
+    background-color: lightskyblue;
+}
+
+.second img{
+    border-radius: 50%;
+}
+
+.para{
+    padding: 10px;
+    font-size: 17px;
+}
+
+.center{
+    text-align: center;
+}
+
+.blue-button{
+    margin-left: 26%;
+    margin-bottom: 20px;
+}
